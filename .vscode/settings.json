@@ -3,5 +3,9 @@
         "activityBar.background": "#2B2E2F",
         "titleBar.activeBackground": "#3D4042",
         "titleBar.activeForeground": "#FCFCFC"
-    }
+    },
+    "[yaml]": {
+        "editor.wordWrap": "on",
+        "editor.wordWrapColumn": 100,
+    },
 }

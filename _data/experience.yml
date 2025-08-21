@@ -1,39 +1,133 @@
 # Jobs
 # Senior Scientist Data Science
 - company: dsm-firmenich
-  position: Senior Scientist Data Science
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  position: Senior Scientist - Data Science
+  duration: Feb, 2025 &mdash; Present
+  summary: |
+    <ul>
+    <li>
+    Led 4 product development projects using multi-fidelity Bayesian optimization, improving yogurt and cheese formulations. One design unlocked a US dairy customer generating $3M revenue.
+    </li>
+    <li>
+    Built and scaled a new data science team (hired 2 scientists), defined ways of working, and shaped data science strategy for the Culture House.
+    </li>
+    <li>
+    Developing genomic-informed Bayesian optimization for starter cultures, leveraging sequencing data for more precise strain selection.
+    </li>
+    </ul>
+
+    Tech: BoTorch, GPyTorch, PyTorch, pandas, scikit-learn, PostgreSQL, AWS S3/RDS, PowerBI.
 
 # Scientist Data Science
 - company: dsm-firmenich
-  position: Scientist Data Science
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  position: Scientist - Data Science
+  duration: Oct, 2023 &mdash; Feb, 2025
+  summary: |
+    <ul>
+    <li>
+    Enhanced Bayesian optimization to handle multi-strain ratio design using multi-objective methods, enabling zero-sugar yogurt and high-texture low-acidification products.
+    </li>
+    <li>
+    Implemented Laboratory Information Management System (SampleManager) for dairy fermentations; adopted by 5 technicians, ensuring structured FAIR data capture and analysis.
+    </li>
+    <li>
+    Built dashboards in PowerBI for experiment insights; improved decision speed and reduced technician workload.
+    </li>
+    <li>
+    Contributed to DelvoOne, which won Digital Transformation Innovation of the Decade at [Gulfood Manufacturing](https://www.gulfoodmanufacturing.com/gulfood-manufacturing-industry-excellence-awards).
+    </li>
+    </ul>
+
+    Tech: BoTorch, PyTorch, pandas, scikit-learn, SampleManager, PowerBI, AWS.
 
 # Senior Associate Scientist Data Science
-- company: DSM
-  position: Senior Associate Scientist Data Science
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: dsm-firmenich
+  position: Senior Associate Scientist - Data Science
+  duration: Feb, 2022 &mdash; Oct, 2023
+  summary: |
+    <ul>
+    <li>
+    Sole data scientist for Co-Creation Platform; used GPy for Bayesian optimization to design DelvoOne culture range, extending yogurt shelf life by 10 days and driving $1M annual revenue in South America.
+    </li>
+    <li>
+    Designed starter cultures for faster acidification and cottage cheese with extended shelf life.
+    </li>
+    <li>
+    </ul>
+    Tech: GPy, pandas, AWS (S3/RDS/Lambda)
 
 # Associate Scientist Data Science
-- company: DSM
-  position: Senior Associate Scientist Data Science
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: dsm-firmenich
+  position: Associate Scientist - Data Science
+  duration: Nov, 2020 &mdash; Feb, 2022
+  summary: |
+    <ul>
+    <li>
+    Automated data collection from lab robots (Python + PowerShell → PostgreSQL + FastAPI), eliminating manual file handling.
+    </li>
+    <li>
+    Built CNN in PyTorch to quantify fungi growth in microtiter plates; automated via Airflow, visualized in Spotfire for scientists.
+    </li>
+    <li>
+    Developed full-stack Flask app for strain engineering (frontend, backend, CI/CD), enabling genotype-phenotype tracking for future R&D scale-up.
+    </li>
+    <li>
+    Established FAIR data storage in CKAN for baking & alt-protein R&D; integrated with Spotfire dashboards, reducing Excel dependence.
+    </li>
+    </ul>
 
 # Data Scientist
 - company: Xccelerated (part of Xebia)
   position: Data Scientist
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: Oct, 2019 &mdash; Oct, 2020
+  summary: |
+    Followed an intensive bootcamp on delivering production grade data science solutions with pandas, scikit-learn, and Git and weekly trainings, applied advanced methods (Bayesian models, PySpark, Docker, CI/CD, Neural Networks). Worked four days at client, dsm-firmenich.
+    <ul>
+      <li>
+      Automated weekly NMR data workflows with Apache Airflow and PostgreSQL. Eliminated manual Excel email exchanges and saved hours of technician time for ~6 active lab users.
+      </li>
+      <li>
+      Built FAIR data storage for proteomics workflows in CKAN and PostgreSQL, improving findability and access for ~10 scientists and reducing time wasted searching for correct datasets and cleaning excel files.
+      </li>
+    </ul>
 
 # Data Scientist
 - company: Unilever (Datlinq Consultant)
   position: Data Scientist
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: Feb, 2018  &mdash; Sep, 2019
+  summary: |
+    <ul>
+      <li>
+      Built sales performance dashboards in Tableau and Power BI for the Out of Home sales teams of Lipton, Ola and Ben & Jerry’s, giving managers a clear view of results across regions. 
+      </li>
+      <li>
+      Used SQL and Python (pandas, scikit learn) on Point of Sale data to create regression models for estimating revenue potential and classification models to predict product conversion. 
+      </li>
+      <li>
+      Combined revenue and conversion models to calculate ROI per sales visit and designed optimized sales routes, helping the sales team focus on the most valuable locations.
+      </li>
+    </ul>
 
-  
+# Accountmanager
+- company: Landscape - Increasing data impact
+  position: Accountmanager
+  duration: Apr, 2017  &mdash; Jan, 2018
+  summary: |
+    Landscape is a data science company that was still in its early stage. My role was to bring in new clients and look after existing ones.
+
+    I set up a clear sales pipeline and sales procedures that are still used today. I was responsible for all new business during my time there and brought in the company’s first €50,000 in revenue through cold acquisition.
+
+# Salesmanager
+- company: SQPeople
+  position: Salesmanager
+  duration: Mar, 2013  &mdash; May, 2017
+  summary: |
+    SQPeople. Responsible for the sales efficiency of a sales establishment of approximately 40 people. 
+    Training sales agents, via self-made workshops and training on location. Working logistics and assisting the general manager.
+
+# Stock clerk
+- company: Albert Heijn
+  position: Stock clerk
+  duration: Jul, 2008 &mdash; Aug, 2012
+  summary: |
+    Part-time position while studying. Responsible for stock management, inventory control, and customer service.

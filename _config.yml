@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Aschwin's Resume"
+description: "Read all about my work experience, education, skills, and interests."
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "Alexander Fleminglaan 1, 2613 AX Delft"
 resume_header_contact_info:     "Alexander Fleminglaan 1, 2613 AX Delft • 015-2799111 • aschwin.schilperoort@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Data scientist/engineer with 7+ years of experience in mathematics, data modeling, and fermentation research. Skilled in building tools and models that improve microbial culture development and product testing. Currently focused on digital solutions to speed up R&D in food and biotech.</p>"
+resume_header_intro: "<p>Data scientist with 7+ years of experience applying machine learning and data engineering to food fermentation R&D. Proven track record of delivering business impact through Bayesian optimization, automation, and FAIR data systems, including the design of award-winning starter culture products generating multi-million revenue. Experienced in building and leading teams, scaling data infrastructure, and connecting research with commercial outcomes.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
