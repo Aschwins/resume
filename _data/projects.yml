@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# scikit-ferm
+- project: scikit-ferm
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2025 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Scikit-Ferm is an open-source Python library for fermentation modeling and optimization, built on top of scikit-learn and other scientific libraries.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+# Improvlib
+- project: Improvlib
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: 2024 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Improvlib is a community-driven library for improvisational theater resources, including games, exercises, and performance tips.
+
+# Game of Amazons
+- project: Game of Amazons
+  role: Contributor
+  duration: 2023 &mdash; Present
+  # url: "#"
+  description: Game of Amazons is a strategy board game that involves tactical movement and area control, with a focus on player interaction and dynamic gameplay.

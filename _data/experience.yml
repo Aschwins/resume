@@ -6,17 +6,15 @@
   summary: |
     <ul>
     <li>
-    Led 4 product development projects using multi-fidelity Bayesian optimization, improving yogurt and cheese formulations. One design unlocked a US dairy customer generating $3M revenue.
+    Further improved Bayesian optimization framework by integrating multi-fidelity modeling (botorch, gpytorch) to learn patterns across fermentation scales. Applied to 4 product development projects, proposing optimal blends for yogurt and cheese properties. One design unlocked a major U.S. dairy producer, generating €3M annual revenue.
     </li>
     <li>
-    Built and scaled a new data science team (hired 2 scientists), defined ways of working, and shaped data science strategy for the Culture House.
+    Started a new data science team for a specific business unit, hiring 2 data scientists, defining the operating model, and shaping the data science strategy for all yogurt and cheese R&D projects.
     </li>
     <li>
-    Developing genomic-informed Bayesian optimization for starter cultures, leveraging sequencing data for more precise strain selection.
+    Currently researching genomics-informed Bayesian optimization, leveraging microbial genomic data to guide strain selection and improve starter culture performance through more efficient optimization.
     </li>
     </ul>
-
-    Tech: BoTorch, GPyTorch, PyTorch, pandas, scikit-learn, PostgreSQL, AWS S3/RDS, PowerBI.
 
 # Scientist Data Science
 - company: dsm-firmenich
@@ -25,20 +23,15 @@
   summary: |
     <ul>
     <li>
-    Enhanced Bayesian optimization to handle multi-strain ratio design using multi-objective methods, enabling zero-sugar yogurt and high-texture low-acidification products.
+    Improved Bayesian optimization framework by moving to botorch, enabling multi-objective and batch optimization for culture optimization problems. Delivered optimized yogurt and cheese starter cultures, including a zero-sugar yogurt and a high-texture, low post-acidification variant.
     </li>
     <li>
-    Implemented Laboratory Information Management System (SampleManager) for dairy fermentations; adopted by 5 technicians, ensuring structured FAIR data capture and analysis.
+    Setup and implemented a Laboratory Information Management System (Sample Manager) for dairy fermentation R&D, adopted by 5 technicians to capture data FAIRly. Connected experiment data into a simple analysis pipeline with Python, SQL, and PowerBI, reducing manual reporting and enabling cross-project insights.
     </li>
     <li>
-    Built dashboards in PowerBI for experiment insights; improved decision speed and reduced technician workload.
-    </li>
-    <li>
-    Contributed to DelvoOne, which won Digital Transformation Innovation of the Decade at [Gulfood Manufacturing](https://www.gulfoodmanufacturing.com/gulfood-manufacturing-industry-excellence-awards).
-    </li>
+    Analytics and DOE support for commercial product development that contributed to Delvo One winning “<b><a href="https://www.gulfoodmanufacturing.com/gulfood-manufacturing-industry-excellence-awards">Digital Transformation Innovation of the Decade</a></b>” at Gulfood Manufacturing.
+    </li>    
     </ul>
-
-    Tech: BoTorch, PyTorch, pandas, scikit-learn, SampleManager, PowerBI, AWS.
 
 # Senior Associate Scientist Data Science
 - company: dsm-firmenich
@@ -47,14 +40,15 @@
   summary: |
     <ul>
     <li>
-    Sole data scientist for Co-Creation Platform; used GPy for Bayesian optimization to design DelvoOne culture range, extending yogurt shelf life by 10 days and driving $1M annual revenue in South America.
+    Lead data scientist/engineer for the Co-Creation Platform supporting global dairy product development.
     </li>
     <li>
-    Designed starter cultures for faster acidification and cottage cheese with extended shelf life.
+    Applied Bayesian optimization with GPy to microbial strain combinations, enabling a 10-day shelf life increase in yogurt. Novel designs resulted in the <b><a href="https://www.dsm-firmenich.com/en/businesses/taste-texture-health/markets-products/dairy/fresh-dairy-fermented/delvo-one.html">Delvo One</a></b> culture range, unlocking a major Latin American dairy client (~€1M annual revenue).
     </li>
     <li>
+    Designed and deployed ML pipelines on AWS (Lambda, Batch, S3, RDS) with SharePoint API integration, automating recipe design workflows for yogurt and cheese cultures.
+    </li>
     </ul>
-    Tech: GPy, pandas, AWS (S3/RDS/Lambda)
 
 # Associate Scientist Data Science
 - company: dsm-firmenich
@@ -122,7 +116,7 @@
   position: Salesmanager
   duration: Mar, 2013  &mdash; May, 2017
   summary: |
-    SQPeople. Responsible for the sales efficiency of a sales establishment of approximately 40 people. 
+    Part-time position while studying. Responsible for the sales efficiency of a sales establishment of approximately 40 people. 
     Training sales agents, via self-made workshops and training on location. Working logistics and assisting the general manager.
 
 # Stock clerk
